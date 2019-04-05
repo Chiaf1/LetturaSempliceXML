@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<programmaArnaldo>
-	<!-- LISTA LEZIONI -->
-	<lezione id="0">
-		<nome>Prerequisiti</nome>
-		<autore>Nikita</autore>
-	</lezione>
-	<lezione id="1">
-		<nome>JFC e liste</nome>
+<provacasalinga>
+	<!-- LISTA PROVE CASALINGHE -->
+	<prova id="0">
+		<nome>Creazione Semplice Classe in Java</nome>
 		<autore>Daniele</autore>
-	</lezione>
-	<lezione id="2">
-		<nome>Git e GitHub</nome>
-		<autore>Nikita</autore>
-	</lezione>
-	<lezione id="3">
-		<nome>Parsing e XML</nome>
-		<autore>Paolo</autore>
-	</lezione>
-</programmaArnaldo>
+	</prova>
+	<prova id="1">
+		<nome>Lettura e Scrittura in console</nome>
+		<autore>Daniele</autore>
+	</prova>
+	<prova id="2">
+		<nome>Lettura file XML</nome>
+		<autore>Daniele</autore>
+	</prova>
+</provacasalinga>

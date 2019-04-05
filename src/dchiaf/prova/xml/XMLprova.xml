@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmaArnaldo>
+	<!-- LISTA LEZIONI -->
+	<lezione id="0">
+		<nome>Prerequisiti</nome>
+		<autore>Nikita</autore>
+	</lezione>
+	<lezione id="1">
+		<nome>JFC e liste</nome>
+		<autore>Daniele</autore>
+	</lezione>
+	<lezione id="2">
+		<nome>Git e GitHub</nome>
+		<autore>Nikita</autore>
+	</lezione>
+	<lezione id="3">
+		<nome>Parsing e XML</nome>
+		<autore>Paolo</autore>
+	</lezione>
+</programmaArnaldo>

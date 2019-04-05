@@ -9,7 +9,7 @@ import java.io.FileInputStream;
 public class MainXML {
 
 	public static void main(String[] args) {
-		String filePath = "C:\\Users\\dchia\\Documents\\_GitHub\\ProvaGestioneXML\\src\\dchiaf\\prova\\xml\\XMLprova.xml";		
+		String filePath = "percorso file";		
 		XMLInputFactory xmlif = null;
 		XMLStreamReader xmlr = null;
 
